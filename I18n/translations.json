@@ -27,4 +27,11 @@
 			"three": "Tre",
 			"longtext": "Detta är en lång text"
 		}
+	"zh":
+		{
+			"one": "一",
+			"two": "二",
+			"three": "三",
+			"longtext": "这长文本"
+		}
 }
